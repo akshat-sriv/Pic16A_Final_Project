@@ -52,23 +52,20 @@ of these models on the training and test set. We will also consider the cross-va
 
 selecting the best model.
 
-Decision Regions:
-
-
-
+Decision Regions: Below are decision regions/boundaries created by each of our models.
 
 Logistic Regression:
 
+![Logistic Regression Decision Edge](decision_boundary_lr.png)
 
 
+Random Forest Tree:
 
-
-Decision Tree:
-
-
+![Random Forest](decision_boundary_rf.png)
 
 
 Support Vector Machine:
+![Support Vector Machine](decision_boundary_SVM.png)
 
 
 
