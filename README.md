@@ -65,6 +65,7 @@ Random Forest Tree:
 
 
 Support Vector Machine:
+
 ![Support Vector Machine](decision_boundary_SVM.png)
 
 
